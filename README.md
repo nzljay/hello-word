@@ -1,4 +1,4 @@
 # hello-word
 nzljay test
 
-Tihs is nzljay's test project.
+Tihs is nzljay's test project!
